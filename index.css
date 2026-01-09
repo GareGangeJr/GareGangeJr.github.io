@@ -44,3 +44,17 @@ ul li {
     padding: 20px;
     border: 1px solid #ccc;
 }
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+
+.logo {
+    border-radius: 50%;
+    height: 60px;
+    width: auto;
+}
+
