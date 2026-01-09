@@ -1,11 +1,23 @@
 body {
     font-family: Arial, sans-serif;
-    margin: 40px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
     color: #333;
 }
 
+.logo-bg {
+    background-image: url('https://tse4.mm.bing.net/th/id/OIP.BxL0waxOIPqN4Q6EbmbjdgHaHa?cb=defcachec2&rs=1&pid=ImgDetMain&o=7&rm=3');
+    background-size: 200px 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 220px;
+    margin-top: 20px;
+}
+
 h1 {
-    color: #green;
+    color: #1f3c88;
+    margin-top: 0;
 }
 
 h2 {
