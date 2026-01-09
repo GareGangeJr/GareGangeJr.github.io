@@ -26,5 +26,8 @@ h2 {
 }
 
 p {
-    line-height: 1.5;
+    max-width: 600px;
+    margin: 10px auto;
+    line-height: 1.6;
 }
+
